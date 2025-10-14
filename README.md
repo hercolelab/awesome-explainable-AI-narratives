@@ -7,4 +7,8 @@ We will keep focusing on this field and updating relevant information 💡 🔄 
 
 Contributions to our repository are welcome! Feel free to [pull requests](https://github.com/hercolelab/awesome-narrative-explainable-AI/pulls).
 
+## Overview of the Narrative XAI pipeline
+
+![Figure 1: Overview of Narrative XAI](pipeline.png)
+
 ## Table of contents
