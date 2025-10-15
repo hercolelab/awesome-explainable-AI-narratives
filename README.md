@@ -44,7 +44,7 @@ narrative strategies. All these works are summarised below.
 - Natural Language Explanations for Machine Learning Classification Decisions [[Paper]](https://ieeexplore.ieee.org/document/10191637) [[Code]](https://github.com/jameswburton18/LocalLevelExplanations)
 - iLLuMinaTE: An LLM-XAI Framework Leveraging Social Science Explanation Theories Towards Actionable Student Performance Feedback [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/35065) [[Code]](https://github.com/epfl-ml4ed/iLLuMinaTE)
 - Using LLMs for Explaining Sets of Counterfactual Examples to Final Users [[Paper]](https://arxiv.org/pdf/2408.15133) [[Code]](https://github.com/arturofredes/LLM-4-CFs-Explanation)
-- Enhancing XAI Narratives through Multi-Narrative Refinement and Knowledge Distillation [[Paper]](https://arxiv.org/pdf/2510.03134) [[Code]](https://github.com/flaat/llm_kd) [[Dataset]](https://huggingface.co/datasets/Anon30241/model_kd_llm)
+- Enhancing XAI Narratives through Multi-Narrative Refinement and Knowledge Distillation [[Paper]](https://arxiv.org/pdf/2510.03134) [[Code]](https://github.com/flaat/llm_kd) 
 - "Show Me How": Benefits and Challenges of Agent-Augmented Counterfactual Explanations for Non-Expert Users [[Paper]](https://dl.acm.org/doi/full/10.1145/3699682.3728321)
 - IMPACT: an interactive multi-disease prevention and counterfactual treatment system using explainable AI and a multimodal LLM [[Paper]](https://peerj.com/articles/cs-2839/) [[Code]](https://github.com/iprasantmohanty/presonalized-health)
 
