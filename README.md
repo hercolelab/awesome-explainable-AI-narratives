@@ -48,10 +48,15 @@ narrative strategies. All these works are summarised below.
 - "Show Me How": Benefits and Challenges of Agent-Augmented Counterfactual Explanations for Non-Expert Users [[Paper]](https://dl.acm.org/doi/full/10.1145/3699682.3728321)
 - IMPACT: an interactive multi-disease prevention and counterfactual treatment system using explainable AI and a multimodal LLM [[Paper]](https://peerj.com/articles/cs-2839/) [[Code]](https://github.com/iprasantmohanty/presonalized-health)
 
-
-
 ## Graph Data
-list
+- Natural Language Counterfactual Explanations For Graphs Using Large Language Models [[Paper]](https://arxiv.org/pdf/2410.09295) [[Code]](https://github.com/flaat/llm-graph-cf)
+- GraphXAIN: Narratives to Explain Graph Neural Networks [[Paper]](https://arxiv.org/pdf/2411.02540) [[Code]](https://github.com/ADMAntwerp/GraphXAIN)
+- GraphNarrator: Generating Textual Explanations for Graph Neural Networks [[Paper]](https://arxiv.org/pdf/2410.15268)
+- Rule2Text: Natural Language Explanation of Logical Rules in Knowledge Graphs [[Paper]](https://arxiv.org/pdf/2507.23740) [[Code]](https://github.com/idirlab/KGRule2NL)
+- Explaining Graph Neural Networks with Large Language Models: A Counterfactual Perspective for Molecular Property Prediction [[Paper]](https://arxiv.org/pdf/2410.15165) [[Code]](https://github.com/YinhanHe123/new_LLM4GNNExplanation)
+
+
+
 ## Images
 list
 ## Reinforcement Learning Policies
