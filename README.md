@@ -33,7 +33,7 @@ A predictive model processes input data to generate an output. Traditional expla
 
 ---
 
-# Narrative Explainable AI with large Language Models
+# Narrative Explainable AI with Large Language Models
 We distinguish contributions that focus on tabular data, graph-structured data, image data (Section 5.3), and reinforcement-learning policies, as these modalities entail distinct representational challenges, explanation requirements, and
 narrative strategies. All these works are summarised below.
 
@@ -55,10 +55,17 @@ narrative strategies. All these works are summarised below.
 - Rule2Text: Natural Language Explanation of Logical Rules in Knowledge Graphs [[Paper]](https://arxiv.org/pdf/2507.23740) [[Code]](https://github.com/idirlab/KGRule2NL)
 - Explaining Graph Neural Networks with Large Language Models: A Counterfactual Perspective for Molecular Property Prediction [[Paper]](https://arxiv.org/pdf/2410.15165) [[Code]](https://github.com/YinhanHe123/new_LLM4GNNExplanation)
 
-
-
 ## Images
-list
+- Using LLMs to explain AI-generated art classification via Grad-CAM heatmaps [[Paper]](https://www.researchgate.net/publication/387398529_Using_LLMs_to_explain_AI-generated_art_classification_via_Grad-CAM_heatmaps)
+- Faithful and Plausible Natural Language Explanations for Image Classification: A Pipeline Approach [[Paper]](https://aclanthology.org/2024.findings-emnlp.130.pdf) [[Code]](https://github.com/wojciechowskiofficial/FLEX)
+- Tell Me a Story! Narrative-Driven XAI with Large Language Models [[Paper]](https://arxiv.org/pdf/2309.17057) [[Code]](https://github.com/ADMAntwerp/XAIstories)
+- Unlocking the Capabilities of Large Vision-Language Models for Generalizable and Explainable Deepfake Detection [[Paper]](https://proceedings.mlr.press/v267/yu25d.html) [[Code]](https://github.com/botianzhe/LVLM-DFD)
+
+
+
+
+
+
 ## Reinforcement Learning Policies
 list
 ## Evaluation Metrics
