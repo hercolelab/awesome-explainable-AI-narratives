@@ -61,18 +61,13 @@ narrative strategies. All these works are summarised below.
 - Tell Me a Story! Narrative-Driven XAI with Large Language Models [[Paper]](https://arxiv.org/pdf/2309.17057) [[Code]](https://github.com/ADMAntwerp/XAIstories)
 - Unlocking the Capabilities of Large Vision-Language Models for Generalizable and Explainable Deepfake Detection [[Paper]](https://proceedings.mlr.press/v267/yu25d.html) [[Code]](https://github.com/botianzhe/LVLM-DFD)
 
-
-
-
-
-
 ## Reinforcement Learning Policies
-list
+- Model-Agnostic Policy Explanations with Large Language Models [[Paper]](https://arxiv.org/pdf/2504.05625)
+- TalkToAgent: A Human-centric Explanation of Reinforcement Learning Agents with Large Language Models [[Paper]](https://arxiv.org/pdf/2509.04809) [[Code]](https://github.com/li-group/TalktoAgent)
+
+
 ## Evaluation Metrics
 list
-
-# Datasets
-table
 
 # Citation
 bibtex
