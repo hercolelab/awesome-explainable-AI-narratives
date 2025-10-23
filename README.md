@@ -65,10 +65,6 @@ narrative strategies. All these works are summarised below.
 - Model-Agnostic Policy Explanations with Large Language Models [[Paper]](https://arxiv.org/pdf/2504.05625)
 - TalkToAgent: A Human-centric Explanation of Reinforcement Learning Agents with Large Language Models [[Paper]](https://arxiv.org/pdf/2509.04809) [[Code]](https://github.com/li-group/TalktoAgent)
 
-
-## Evaluation Metrics
-list
-
 # Citation
 bibtex
 
