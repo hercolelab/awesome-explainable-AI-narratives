@@ -66,6 +66,12 @@ narrative strategies. All these works are summarised below.
 - TalkToAgent: A Human-centric Explanation of Reinforcement Learning Agents with Large Language Models [[Paper]](https://arxiv.org/pdf/2509.04809) [[Code]](https://github.com/li-group/TalktoAgent)
 
 # Citation
-bibtex
-
+```
+@article{silvestri2025survey,
+  title={A Survey on Explainable AI Narratives based on Large Language Models},
+  author={Silvestri, Matteo and Vineis, Vittoria and Gabrielli, Edoardo and Giorgi, Flavio and Veglianti, Fabiano and Silvestri, Fabrizio and Tolomei, Gabriele},
+  journal={Authorea Preprints},
+  publisher={Authorea}
+}
+```
 
