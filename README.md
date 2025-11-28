@@ -1,7 +1,7 @@
 # Awesome Narrative Explainable AI
 We present a curated collection of research and resources on **Narrative Explainable AI (Narrative XAI)**, highlighting approaches that bridge **Large Language Models (LLMs)** and **Explainable AI (XAI)** to create user-centric and intuitively understandable explanations.
 
-**Source**: [A Survey on Explainable AI Narratives based on Large Language Models]([https://hercolelab.netlify.app](https://www.techrxiv.org/users/995230/articles/1356253-a-survey-on-explainable-ai-narratives-based-on-large-language-models?commit=9bd90601009c468a71543a346661bc0a21c17412))
+**Source**: [A Survey on Explainable AI Narratives based on Large Language Models](https://www.techrxiv.org/users/995230/articles/1356253-a-survey-on-explainable-ai-narratives-based-on-large-language-models?commit=9bd90601009c468a71543a346661bc0a21c17412)
 
 We will keep focusing on this field and updating relevant information 💡 🔄 🧠
 
